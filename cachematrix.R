@@ -1,6 +1,3 @@
-## these two functions can reduce the repeatable inverse 
-## 
-
 ## makeCacheMatrix creates a special "matrix" object that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
